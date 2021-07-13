@@ -18,6 +18,6 @@ app.use(bodyParser.json())
  
 app.get('/student/studentLists',(req,res)=>{
         res.send(DATA);});
-app.listen(PORT, () => {
-    console.log(`server started http://localhost:${PORT}`);
+app.listen(port, () => {
+    console.log(`server started http://localhost:${port}`);
 })
