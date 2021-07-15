@@ -1,7 +1,8 @@
 {
-  "name": "api-problem2",
+
+  "name": "garden-problem2",
   "version": "1.0.0",
-  "description": "BI ExoressJS problem 2",
+  "description": "BI ExpressJS problem 2",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
